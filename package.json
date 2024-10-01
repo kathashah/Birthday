@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kathashah/birthday-message.git"
+    "url": "git+https://github.com/kathashah/Birthday.git"
   },
   "keywords": [
     "Birthday"
   ],
   "author": "Katha",
-  "homepage": "https://github.com/kathashah/birthday-message#readme",
+  "homepage": "https://github.com/kathashah/Birthday#readme",
   "dependencies": {
     "http-server": "^0.11.1"
   }
